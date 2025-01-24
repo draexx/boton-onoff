@@ -1,7 +1,7 @@
 # Arduino Toggle LED Control Project
 
 ## Simulación
-[Ver projeto en Tinkercad](https://www.tinkercad.com/things/bvdRBLjBMXn-boton-onoff-pullup)
+[Ver proyecto en Tinkercad](https://www.tinkercad.com/things/bvdRBLjBMXn-boton-onoff-pullup)
 
 ## Descripción
 Código Arduino que controla un LED con un botón de alternancia (on/off).
